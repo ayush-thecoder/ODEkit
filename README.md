@@ -10,7 +10,7 @@
 
 ## Installation
 ```bash
-pip install git+https://github.com/yourusername/ODEkit.git
+pip install git+https://github.com/ayush-thecoder/ODEkit.git
 ```
 
 ## Quickstart Example
